@@ -1,0 +1,15 @@
+C:\Users\vta27\Desktop\GB\C++\ДЗ\ДЗ_семинар9_C\task9_0\bin\Debug\net6.0\task9_0.exe
+C:\Users\vta27\Desktop\GB\C++\ДЗ\ДЗ_семинар9_C\task9_0\bin\Debug\net6.0\task9_0.deps.json
+C:\Users\vta27\Desktop\GB\C++\ДЗ\ДЗ_семинар9_C\task9_0\bin\Debug\net6.0\task9_0.runtimeconfig.json
+C:\Users\vta27\Desktop\GB\C++\ДЗ\ДЗ_семинар9_C\task9_0\bin\Debug\net6.0\task9_0.dll
+C:\Users\vta27\Desktop\GB\C++\ДЗ\ДЗ_семинар9_C\task9_0\bin\Debug\net6.0\task9_0.pdb
+C:\Users\vta27\Desktop\GB\C++\ДЗ\ДЗ_семинар9_C\task9_0\obj\Debug\net6.0\task9_0.csproj.AssemblyReference.cache
+C:\Users\vta27\Desktop\GB\C++\ДЗ\ДЗ_семинар9_C\task9_0\obj\Debug\net6.0\task9_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vta27\Desktop\GB\C++\ДЗ\ДЗ_семинар9_C\task9_0\obj\Debug\net6.0\task9_0.AssemblyInfoInputs.cache
+C:\Users\vta27\Desktop\GB\C++\ДЗ\ДЗ_семинар9_C\task9_0\obj\Debug\net6.0\task9_0.AssemblyInfo.cs
+C:\Users\vta27\Desktop\GB\C++\ДЗ\ДЗ_семинар9_C\task9_0\obj\Debug\net6.0\task9_0.csproj.CoreCompileInputs.cache
+C:\Users\vta27\Desktop\GB\C++\ДЗ\ДЗ_семинар9_C\task9_0\obj\Debug\net6.0\task9_0.dll
+C:\Users\vta27\Desktop\GB\C++\ДЗ\ДЗ_семинар9_C\task9_0\obj\Debug\net6.0\refint\task9_0.dll
+C:\Users\vta27\Desktop\GB\C++\ДЗ\ДЗ_семинар9_C\task9_0\obj\Debug\net6.0\task9_0.pdb
+C:\Users\vta27\Desktop\GB\C++\ДЗ\ДЗ_семинар9_C\task9_0\obj\Debug\net6.0\task9_0.genruntimeconfig.cache
+C:\Users\vta27\Desktop\GB\C++\ДЗ\ДЗ_семинар9_C\task9_0\obj\Debug\net6.0\ref\task9_0.dll
